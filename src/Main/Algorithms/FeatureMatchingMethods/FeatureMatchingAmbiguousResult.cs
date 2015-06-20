@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using USC.GISResearchLab.Common.Addresses;
-using USC.GISResearchLab.Common.Core.Geocoders.FeatureMatching;
+
 
 namespace USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureMatchingMethods
 {
