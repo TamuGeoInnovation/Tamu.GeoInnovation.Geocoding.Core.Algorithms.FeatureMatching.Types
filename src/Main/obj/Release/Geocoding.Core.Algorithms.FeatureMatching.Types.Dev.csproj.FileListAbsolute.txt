@@ -1,5 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.FeatureMatching.Types\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.Types.dll.config
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.FeatureMatching.Types\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.Types.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.FeatureMatching.Types\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.Types.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.FeatureMatching.Types\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.Types.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.FeatureMatching.Types\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.FeatureMatching.Types.pdb
