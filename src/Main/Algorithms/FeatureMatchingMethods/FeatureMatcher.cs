@@ -5,7 +5,8 @@ namespace USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureMatchingMethods
 {
 
     [Flags]
-    public enum FeatureMatchTypes {
+    public enum FeatureMatchTypes
+    {
         NoMatch = 1,
         Exact = 2,
         Relaxed = 4,
